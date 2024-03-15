@@ -1,4 +1,4 @@
-# Use the official Python image as the base image
+# Use the official Python dockimg as the base dockimg
 FROM nvidia/cuda:12.1.0-base-ubuntu22.04
 
 # Install software required for Python3
